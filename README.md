@@ -1,5 +1,5 @@
 
-# CoolStay
+# CoolStay project
 
 I had this project in mind for the last year but I never got the chance to create it. I tried to do in a microservice architecture but it took a lot of time. Now, I tried to do it in a monolithic architecture and elastic search using ASP .NET Core 8 and React JS for the frontend but in this repository you'll only find source code of the backend. The frontend source code will be uploaded soon on another reposiotry. 
 
